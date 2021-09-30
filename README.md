@@ -15,4 +15,4 @@ the script has a dictionary of genres by name and their associated genre 'id'. Y
 ### 3. copy the url and past it into your favorite web browser!
 
 
-^^Note: I know the dictionary duplication is not 'good code' but I haven't yet figured out how to compare the input to a key.lower()
+<sup>Note: I know the dictionary duplication is not 'good code' but I haven't yet figured out how to compare the input to a key.lower()</sup>
