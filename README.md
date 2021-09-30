@@ -8,7 +8,7 @@ I created this script to 'practice' my understanding of python and to put my new
 
 **To use, simply start the script and follow the commands!**
 
-the script has a dictionary of genres by name and their associated genre 'id'. You can go from *I want to watch a {genre} movie/tv show* to /*watching/* it in a few simple steps!
+the script has a dictionary of genres by name and their associated genre 'id'. You can go from *I want to watch a {genre} movie/tv show* to \*watching\* it in a few simple steps!
 
 #### 1. start the script
 #### 2. enter the genre you want to watch (or type 'help' for full list of genres)
