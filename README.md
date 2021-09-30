@@ -13,3 +13,6 @@ the script has a dictionary of genres by name and their associated genre 'id'. Y
 ### 1. start the script
 ### 2. enter the genre you want to watch (or type 'help' for full list of genres)
 ### 3. copy the url and past it into your favorite web browser!
+
+
+^^Note: I know the dictionary duplication is not 'good code' but I haven't yet figured out how to compare the input to a key.lower()
